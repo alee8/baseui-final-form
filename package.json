@@ -54,7 +54,7 @@
     "baseui": "^6.11.0",
     "create-universal-package": "^4.0.0",
     "eslint": "^5.15.3",
-    "eslint-config-fusion": "^4.0.0",
+    "eslint-config-fusion": "^5.0.0",
     "eslint-plugin-cup": "^2.0.0",
     "eslint-plugin-flowtype": "^3.4.2",
     "eslint-plugin-import": "^2.16.0",
